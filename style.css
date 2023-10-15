@@ -1,0 +1,99 @@
+body.abertura{ /*abertura, usar class="abertura" serve para direcionar pra ca tlg*/
+    background-repeat: no-repeat;
+    background-image: url(3409297.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+body.index{ /*INDEX*/
+    background-image: url(3409297.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+.menu li{
+  
+    display: inline; 
+    margin-right: 20px;  
+}
+a:link{
+    color: aliceblue;
+}
+a:active{
+    color: rgb(36, 172, 42);
+}
+a:visited{
+    color: maroon;
+}
+
+
+body.sobre{ /*SOBRE*/
+    background-image: url(3409297.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+.menu li{
+  
+    display: inline; 
+    margin-right: 20px;  
+}
+a:link{
+    color: aliceblue;
+}
+a:active{
+    color: rgb(36, 172, 42);
+}
+a:visited{
+    color: maroon;
+}
+
+
+body.servicos{ /*SERVICOS*/
+    background-image: url(3409297.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+.menu li{
+  
+    display: inline; 
+    margin-right: 20px;  
+}
+a:link{
+    color: aliceblue;
+}
+a:active{
+    color: rgb(36, 172, 42);
+}
+a:visited{
+    color: maroon;
+}
+
+
+body.contato{ /*CONTATO*/
+body{
+    background-image: url(3409297.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
+.menu li{
+  
+    display: inline; 
+    margin-right: 20px;  
+}
+a:link{
+    color: aliceblue;
+}
+a:visited{
+    color: maroon;
+}
+}
